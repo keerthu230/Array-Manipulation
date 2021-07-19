@@ -12,7 +12,7 @@ int main()
         RotateArray(arr,n);  
     
 
-    cout<<endl<<"To Exit press -> 0 /n To Continue press -> 1 "<<endl;    
+    cout<<endl<<"To Exit press -> 0 \n To Continue press -> 1 "<<endl;    
    
     cin>>key;
 
